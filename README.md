@@ -39,7 +39,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
     <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/vue-scm/vue-scm-icon.svg" alt="vue" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vue" width="40" height="40"/> 
   </a>
 </p>
 
