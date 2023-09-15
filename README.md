@@ -47,6 +47,4 @@
 
 ------
 
-[BrantLauro](https://github.com/BrantLauro)
-
-Last Edited on: 05/08/2021
+[MiltonJr](https://github.com/MiltonQuintero)
