@@ -7,7 +7,7 @@
 ## About Me :
 
 - 🏢 I currently work as **software programming technician**
-- 🎓 Software IPregramming Studies [National Learning Service (Sena)]([https://www.londonmet.ac.uk/](https://www.sena.edu.co/es-co/Paginas/default.aspx))
+- 🎓 software programming technician Studies [National Learning Service (Sena)]([https://www.londonmet.ac.uk/](https://www.sena.edu.co/es-co/Paginas/default.aspx))
 - 🏡'Lives in **Barranquilla-Colombia**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
@@ -17,7 +17,7 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/)
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "miltonjr__")](https://www.instagram.com/miltonjr__/)
 
 <br>
 
