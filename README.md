@@ -38,11 +38,11 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-    <a href="https://git-scm.com/" target="_blank"> 
+    <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vue" width="80" height="40"/> 
   </a>
-     <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="vue" width="40" height="40"/> 
+     <a href="https://nodejs.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> 
   </a>
 </p>
 
