@@ -1,5 +1,4 @@
 <div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anushka Wijegoonawardana</h1>
 
@@ -7,7 +6,7 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **software programming technician** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
+- 🏢 I currently work as **software programming technician**
 - 🎓 Software IPregramming Studies [National Learning Service (Sena)]([https://www.londonmet.ac.uk/](https://www.sena.edu.co/es-co/Paginas/default.aspx))
 - 🏡'Lives in **Barranquilla-Colombia**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
