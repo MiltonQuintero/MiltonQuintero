@@ -50,8 +50,8 @@
       <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/> 
   </a>
-    <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="Postgres" width="40" height="40"/> 
   </a>
   <a href="https://www.postman.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
