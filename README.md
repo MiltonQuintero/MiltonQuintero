@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-
+![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miltonjr__/)
   
 </div>
