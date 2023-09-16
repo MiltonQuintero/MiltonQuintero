@@ -15,7 +15,6 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miltonjr__/)
   
 </div>
@@ -79,4 +78,4 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[MiltonJr](https://github.com/MiltonQuintero)
+[MiltonJr](https://github.com/MiltonQuintero)  ![Profile views counter](https://MiltonQuintero.dev/github-profile-view-counter.svg)
