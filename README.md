@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milton <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate javaScript, java and Python  developer from Colombia</h3>
+<h3 align="center">A passionate javaScript, java and Python developer from Colombia</h3>
 
 - 🔭 I’m currently working on my **confidential project**
 
@@ -58,10 +58,19 @@
   </a> 
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=MiltonQuintero&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonQuintero&theme=react&layout=compact" />
-</p>
+### Github Activity ✔:
+
+<a href="https://github.com/MiltonQuintero">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonQuintero&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/MiltonQuintero">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiltonQuintero&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+</a>
+
+<br/>
+<br/>
+<br/>
 
 ------
 
