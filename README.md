@@ -61,6 +61,12 @@
    <a href="https://gitlab.com/miltonjuniorquinterorecio" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gitlab" width="40" height="40"/> 
   </a> 
+    <a href="https://sequelize.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize" width="40" height="40"/> 
+  </a>
+    <a href="https://jestjs.io/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/> 
+  </a>
 </p>
  
 ### ⚙️ &nbsp;GitHub Analytics
