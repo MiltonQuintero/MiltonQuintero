@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">A passionate javaScript, java and Python, developer from Colombia</h3>
 
-- 🔭 I’m currently working on my **confidential project**
+- 🔭 I’m currently working on a **confidential project**
 
 - 🌱 I’m currently learning **PHP, WordPress, React..**
 
