@@ -19,7 +19,7 @@
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<picture> <img src = "https://github.com/MiltonQuintero/MiltonQuintero/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
  <a href="https://vuejs.org/" target="_blank"> 
