@@ -2,6 +2,7 @@
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">A passionate javaScript, java and Python, developer from Colombia</h3>
 
 - 🔭 I’m currently working on my **confidential project**
