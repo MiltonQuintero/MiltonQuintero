@@ -59,12 +59,11 @@
    <a href="https://www.npmjs.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40"/> 
   </a> 
-</p>
-<p align="center">
    <a href="https://gitlab.com/miltonjuniorquinterorecio" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gitlab" width="40" height="40"/> 
   </a> 
- </p>
+</p>
+ 
 ### Github Activity ✔:
 
 <a href="https://github.com/MiltonQuintero">
