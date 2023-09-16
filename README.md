@@ -2,7 +2,7 @@
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
-<h3 align="center">A passionate javaScript, java and Python, developer from Colombia</h3>
+<h3 align="center">A passionate JavaScript, Java and Python, developer from Colombia</h3>
 
 - 🔭 I’m currently working on a **confidential project**
 
