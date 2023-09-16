@@ -20,7 +20,7 @@
 </div>
 
 <h3 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  Languages and Tools</h3>
-
+<a></a>
 <p align="center"> 
  <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vue" width="80" height="40"/> 
