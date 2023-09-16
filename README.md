@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milton <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+</p>
 <h3 align="center">A passionate javaScript, java and Python developer from Colombia</h3>
 
 - 🔭 I’m currently working on my **confidential project**
