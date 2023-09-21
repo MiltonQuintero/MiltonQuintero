@@ -25,11 +25,11 @@
  <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vue" width="80" height="40"/> 
   </a>
-    <a href="https://www.java.com/es/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
-  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+    <a href="https://www.java.com/es/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
   </a> 
    <a href="https://nodejs.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> 
